@@ -16,13 +16,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed7884a1-7493-46ff-a370-8edc032150a9" name="Changes" comment="aqui mi trabajo profe: Raul De Aquino Garcia">
-      <changelist_data name="raul" email="ti_4222010247@utcam.edu.mx" />
-    </list>
+    <list default="true" id="ed7884a1-7493-46ff-a370-8edc032150a9" name="Changes" comment="aqui mi trabajo profe: Raul De Aquino Garcia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
@@ -149,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708749372727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aqui mi trabajo profe: Raul De Aquino Garcia">
+      <option name="closed" value="true" />
+      <created>1708749634757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708749634757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
